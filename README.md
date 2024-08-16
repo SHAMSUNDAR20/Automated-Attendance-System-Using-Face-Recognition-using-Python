@@ -1,4 +1,4 @@
-# Face Recognition Based Attendance System
+# Automated Attendace using Python
 
 This project is a Python-based attendance system that utilizes face recognition technology to mark attendance. It features an easy-to-use graphical user interface (GUI) built with tkinter.
 
